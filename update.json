@@ -1,8 +1,8 @@
 {
-  "versionCode": 10006,
-  "versionName": "10006",
-  "releaseDate": "Sep 13, 2026",
-  "changelog": "[ADDED]\n\n● Added fitur baru\n● Improved GPS stability\n● Bug fixes and performance improvements",
+  "versionCode": 10007,
+  "versionName": "10007",
+  "releaseDate": "Sep 14, 2026",
+  "changelog": "[UPDATED]\n\n● Improved AutoStop detection\n● Improved GPS stability and marker movement\n● Improved Floating Interface\n● Improved Play & Stop response\n● Improved app performance and compatibility\n● Fixed minor bugs\n\n💡 NOVALDY SUGESAN WKWK",
   "downloadUrl": "https://github.com/SBOYZGRABMODZ/UpdateSboyzAll/releases/download/%23fakesboyz/SBFAKE_Free.Edition.apk",
-  "forceUpdate": false
+  "forceUpdate": true
 }
